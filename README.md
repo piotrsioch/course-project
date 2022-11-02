@@ -1,0 +1,3 @@
+This is a project, which I built during taking a course of HTML and CSS. Whole layout, content etc. is not my idea, but I was following the course and I have learned a lot of useful stuff - such as creating responsive design, some layout principles, arrangement of elements, using semantic tags in HTML. I also practiced building layouts with divs and grids - before this course I have only known approach with float: left, which was terrible and outdated :) I practiced skill which I gained during previusly mentioned course, while I was building github-pages remake - you can check it on my other git repository.
+
+Link to the online website - https://foodcompany-project.netlify.app/
